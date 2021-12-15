@@ -15,6 +15,8 @@ dynamic programming
 
 ## What was the key point and the hard part?
 
+I can use O(N^2) algorithm but I have better solution to solve it by O(N*NlogN).
+
 Almost same with the problem 11054 that I solved.
 
 Only thing I have to do is make decrasing array not increasing array.
